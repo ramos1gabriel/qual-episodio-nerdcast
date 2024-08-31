@@ -1,10 +1,10 @@
-# qual-episodio-nerdcast
+# Qual é o episódio do Nerdcast?
 
 Você que é fã do Nerdcast, o podcast do Jovem Nerd (Alexandre Ottoni) e Azaghal (Deive Pazos) e as vezes quer lembrar em qual episódio disseram alguma palavra ou frase?
 
 ENTÃO SEUS PROBLEMAS ACABARAM! 
 
-Junto com a colaboração da forte comunidade do Jovem Nerd no subreddit, desenvolvi uma aplicação que utilizada um dataset com a transcrição de todas as falas dos **episódios 001 até 921**.
+Junto com a colaboração da forte comunidade do Jovem Nerd no subreddit, desenvolvi um projeto que utilizada um dataset com a transcrição de todas as falas dos **episódios 001 até 921**.
 
 A aplicação é feita utilizando o Java Springboot com a biblioteca openCSV para ler o dataset e a biblioteca gson para converter os dados do CSV para JSON para facilitar a busca nos episódios.
 
