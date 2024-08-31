@@ -8,7 +8,7 @@ Junto com a colaboração da forte comunidade do Jovem Nerd no subreddit, desenv
 
 A aplicação é feita utilizando Java Springboot com a biblioteca openCSV para ler o dataset e a biblioteca gson para converter os dados do CSV para JSON para facilitar a busca.
 
-**Créditos: ** Transcrição feita pelo usuário "u/Leonardo120602" do subreddit "r/jovem".
+**Créditos:** Transcrição feita pelo usuário "u/Leonardo120602" do subreddit "r/jovem".
 
 [Link do post da transcrição no subreddit](https://www.reddit.com/r/jovemnerd/comments/1bpgz0w/transcri%C3%A7%C3%A3o_dos_nerdcasts_do_001_ao_921/ "Link do post no sub")
 
