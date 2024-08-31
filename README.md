@@ -4,17 +4,15 @@ Você que é fã do Nerdcast, o podcast do Jovem Nerd (Alexandre Ottoni) e Azagh
 
 ENTÃO SEUS PROBLEMAS ACABARAM! 
 
-Junto com a colaboração da forte comunidade do Jovem Nerd no subreddit, desenvolvi um projeto que utilizada um dataset com a transcrição de todas as falas dos **episódios 001 até 921**.
+Junto com a colaboração da forte comunidade do Jovem Nerd no subreddit, desenvolvi um projeto que utiliza um dataset com a transcrição de todas as falas dos **episódios 001 até 921**.
 
-A aplicação é feita utilizando o Java Springboot com a biblioteca openCSV para ler o dataset e a biblioteca gson para converter os dados do CSV para JSON para facilitar a busca nos episódios.
+A aplicação é feita utilizando Java Springboot com a biblioteca openCSV para ler o dataset e a biblioteca gson para converter os dados do CSV para JSON para facilitar a busca.
 
 **Créditos: ** Transcrição feita pelo usuário "u/Leonardo120602" do subreddit "r/jovem".
 
 [Link do post da transcrição no subreddit](https://www.reddit.com/r/jovemnerd/comments/1bpgz0w/transcri%C3%A7%C3%A3o_dos_nerdcasts_do_001_ao_921/ "Link do post no sub")
 
 [Link do kaggle com o dataset dos episódios 001 a 921](https://www.kaggle.com/datasets/leonardocosta1206/nerdcast-transcriptions "Link do kaggle com o dataset dos episódios 001 a 921")
-
-Aplicação Java que busca uma palavra-chave nos episódios do Nerdcast 001 a 921
 
 ## Tecnologias
 - Java 17 - Linguagem de programação
